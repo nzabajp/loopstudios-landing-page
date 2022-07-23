@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://nzabajp.github.io/loopstudios-landing-page/)
 - Live Site URL: [live site URL](https://nzabajp.github.io/loopstudios-landing-page/)
 
 ## My process
