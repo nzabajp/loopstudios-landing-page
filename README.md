@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Jean Claude Nzabanterura](https://github.com/nzabajp)
+- Github - [Jean Claude Nzabanterura](https://github.com/nzabajp)
 - Frontend Mentor - [@nzabajp](https://www.frontendmentor.io/profile/nzabajp)
 - Twitter - [@Paul_JV](https://twitter.com/Paul_JV)
 
