@@ -493,7 +493,6 @@ MEDIA QUERIES
         grid-template: "a b"
                        "c d"
                        "e e";
-        justify-content: space-between;
         justify-items: start;
     
     }
