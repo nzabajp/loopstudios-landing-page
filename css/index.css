@@ -490,31 +490,34 @@ MEDIA QUERIES
 
     .container-footer {
         display: grid;
-        grid-template: "a b"
-                       "c d"
-                       "e e";
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto auto;
+        grid-template-areas: 
+            "logo socials"
+            "nav footer"
+            "small small";
         justify-items: start;
     
     }
     .footer-logo {
-        grid-area: a;
+        grid-area: logo;
     }
     .footer-nav {
-        grid-area: c;
+        grid-area: nav;
         display: flex;
         gap: .9em;
     }
     .social-link-container {
-        grid-area: b;
+        grid-area: socials;
         justify-self: end;
         margin-top: 0;
     }
     .notice-footer {
-        grid-area: d;
+        grid-area: footer;
         justify-self: end;
     }
     .attribution {
-        grid-area: e;
+        grid-area: small;
         justify-self: center;
     }
 
